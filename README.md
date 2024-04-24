@@ -1,6 +1,6 @@
 # milliways_restaurant
 
-A repo for Jo, Helder and Nico's 1st group project.
+This is a fork of the repo for Jo, Helder and Nico's 1st group project.  I've made some small edits on this repo to tidy up some bits we didn't get a chance to.  If you'd like to see what we achieved in the 4 days we had, please visit the original repo: https://github.com/technative-academy/milliways_restaurant 
 
 ## Table of Contents
 
