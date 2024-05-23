@@ -1,6 +1,10 @@
-# milliways_restaurant
+# Milliways Restaurant
 
-A repo for Jo, Helder and Nico's 1st group project.
+This is a forked repo for my first TechNative Digital group project with Helder and Nico (see below for links).  
+
+We had four days to complete this website from a Figma design brief, although we were allowed to choose our own company for the site.  It was a tall order and we had plenty of bumps in the road, but I'm really proud of what we've created.  It taught me a lot about working with different types of people and really put my management skills to the test!  
+
+You can read more about my experiences and learning from this group project on my reflective blog [__From_Stage_To_Screen__](https://jo-pickering.github.io/from_stage_to_screen/).
 
 ## Table of Contents
 
